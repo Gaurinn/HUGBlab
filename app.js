@@ -1,5 +1,5 @@
 //app.js
-const app = require("./sc/api");
+const app = require("./src/api");
 
 const PORT = process.env.PORT || 3000;
 

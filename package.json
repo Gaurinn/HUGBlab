@@ -1,0 +1,22 @@
+{
+  "name": "hugblab",
+  "version": "1.0.0",
+  "description": "lab from HUGBunadarfraedi",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaurinn/HUGBlab.git"
+  },
+  "author": "andri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaurinn/HUGBlab/issues"
+  },
+  "homepage": "https://github.com/Gaurinn/HUGBlab#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
